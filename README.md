@@ -3,25 +3,16 @@
 </p>
 
 # Dagoberto Okasaki
-<sub>*Data Scientist* at ...</sub>
 
-...
-
-...
-
-**Background in:** Python, Data Science, Machine Learning.
+**Background in:** Python, Data Science
 
 **Links:**
-* [Blog](https://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/)
-* [Medium](https://www.medium.com)
+
+* [LinkedIn](https://www.linkedin.com/in/dagoberto-okasaki/)
 
 
 ## Projetos:
 
-
-
----
 
 
 
